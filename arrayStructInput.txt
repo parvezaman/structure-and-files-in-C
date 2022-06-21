@@ -1,0 +1,7 @@
+6
+akib 91 29 C 9
+Sakib 96 31 D 9
+Rakib 57 45 D 9
+aman 43 33 F 5
+ullah 99 99 G 7
+parvez 32 5 T 9

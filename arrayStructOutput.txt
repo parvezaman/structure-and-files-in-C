@@ -1,0 +1,10 @@
+name : akib; marks: 91; roll: 29; section: C; class: 9
+name : Sakib; marks: 96; roll: 31; section: D; class: 9
+name : Rakib; marks: 57; roll: 45; section: D; class: 9
+name : aman; marks: 43; roll: 33; section: F; class: 5
+name : ullah; marks: 99; roll: 99; section: G; class: 7
+name : parvez; marks: 32; roll: 5; section: T; class: 9
+
+Higest: - name : ullah; marks: 99; roll: 99; section: G; class: 7
+
+Lowest: - name : parvez; marks: 32; roll: 5; section: T; class: 9
