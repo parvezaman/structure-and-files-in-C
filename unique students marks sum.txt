@@ -1,5 +1,0 @@
-name: Rakib; id: 17256; total mark: 295
-name: Sakib; id: 17259; total mark: 173
-name: Akib; id: 17255; total mark: 89
-name: Abdul; id: 17251; total mark: 77
-name: Ratul; id: 17266; total mark: 96
